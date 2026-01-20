@@ -13,7 +13,7 @@
 
 **Building transaction security & wallet infrastructure at scale**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maximalvido&theme=radical&hide_border=true)](https://github.com/maximalvido)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maximalvido&theme=radical&hide_border=true)](https://github.com/maximalvido)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximalvido&layout=compact&theme=radical&hide_border=true)](https://github.com/maximalvido)
 
 </div>

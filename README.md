@@ -23,7 +23,7 @@
 ## 🚀 Current & Recent Work
 
 ### Founding Engineer @ BitFinding & Multi Chain DeFi Trading Terminal
-**August 2024 – Present**
+**August 2024 – December 2025**
 
 **Shipped Products:**
 - **Unblind.app** - AI-powered Web3 transaction clarity layer

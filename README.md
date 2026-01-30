@@ -12,6 +12,7 @@
 </div>
 
 **Building transaction security & wallet infrastructure at scale**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximalvido&layout=compact&theme=radical&hide_border=true)](https://github.com/maximalvido)
 
 </div>

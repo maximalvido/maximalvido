@@ -153,17 +153,19 @@
 
 ## 🎯 Specialties
 
-✅ **0→1 Product Delivery** | **Founding Engineer roles** | **CTO-level architecture**
+✅ **0→1 Product Delivery** | **Head of Engineering / CTO-level architecture** | **Founding Engineer roles**
 
-✅ **Web3 / DeFi / MEV** | **High-frequency systems** | **Real-time data pipelines**
+✅ **Distributed systems** | **Real-time & high-throughput pipelines** | **Event-driven microservices**
 
-✅ **Microservices** | **Event-driven systems** | **Multi-chain integration**
+✅ **Programmable infrastructure** | **Network orchestration (SDN)** | **Marketplaces**
 
-✅ **Team leadership** | **Cross-functional coordination** | **Technical strategy**
+✅ **Financial systems** | **Billing & payments** | **Settlement & ledgers**
 
-✅ **Smart contracts** | **Tokenization protocols** | **RWA infrastructure**
+✅ **AI-native engineering** | **Agentic workflows** | **Engineering operating models**
 
-✅ **Performance optimization** | **Cost reduction** | **Production hardening**
+✅ **Web3 / DeFi / MEV** | **Smart contracts & tokenization** | **Multi-chain integration**
+
+✅ **Team building** | **Hiring & onboarding** | **Technical strategy**
 
 ---
 

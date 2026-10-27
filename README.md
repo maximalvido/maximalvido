@@ -24,9 +24,11 @@
 ### Head of Engineering @ Share Inc
 **2025 – Present | Barcelona, Spain**
 
-- Designed a payments and financial coordination layer integrating payment providers, banks, and treasury systems across currencies and jurisdictions.
-- Built billing and provisioning systems that connect financial flows with network operations to automate subscription lifecycles for thousands of users.
-- Established engineering processes and standards for a founding team, including sprint planning, code reviews, and AI-assisted development workflows.
+- **Building a bandwidth marketplace**: a platform where network operators buy and sell capacity wholesale, with partner onboarding, usage-based billing and settlement in one place. Took it from architecture to production in under a month.
+- **Designing the software-defined networking (SDN) layer** at the core of the marketplace: one orchestration plane across independent operators' networks, so capacity is ordered, provisioned and measured in software rather than through tickets and manual setup. *(in progress)*
+- **Defining how an AI-native company builds software**: an operating model where product intent becomes an engineering contract, agents implement it, and engineers decide based on the evidence they produce. Set up the team structure, review gates and release process to match.
+- **Scaling the company's operations on a platform built for it**: billing, payments and settlement, and subscriber provisioning, used to move operators off legacy ISP tooling.
+- **Building the engineering organisation**: hiring (system-design and live-coding interviews), onboarding, and coordinating software, network and systems teams under one architecture and one release process.
 
 ---
 

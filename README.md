@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Solidity-7C3AE9?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </div>
 
-**Building distributed, real-time systems — and the AI-native teams that ship them**
+**Building distributed, real-time systems — from the network layer to the product — and the AI-native teams that ship them**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximalvido&layout=compact&theme=radical&hide_border=true)](https://github.com/maximalvido)
 

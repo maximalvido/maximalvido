@@ -1,7 +1,7 @@
 <div align="center">
 
 # Maximiliano Malvido
-**Founding Engineer | Web3 Infrastructure | DeFi | MEV**
+**Head of Engineering at Share Inc | Payments & Infrastructure | AI | Web3**
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Solidity-7C3AE9?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </div>
 
-**Building transaction security & wallet infrastructure at scale**
+**Building scalable products, payment systems, and engineering teams**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximalvido&layout=compact&theme=radical&hide_border=true)](https://github.com/maximalvido)
 
@@ -19,7 +19,18 @@
 
 ---
 
-## 🚀 Current & Recent Work
+## 🚀 Current Work
+
+### Head of Engineering @ Share Inc
+**2025 – Present | Barcelona, Spain**
+
+- Designed a payments and financial coordination layer integrating payment providers, banks, and treasury systems across currencies and jurisdictions.
+- Built billing and provisioning systems that connect financial flows with network operations to automate subscription lifecycles for thousands of users.
+- Established engineering processes and standards for a founding team, including sprint planning, code reviews, and AI-assisted development workflows.
+
+---
+
+## Recent Work
 
 ### Founding Engineer @ BitFinding & Multi Chain DeFi Trading Terminal
 **August 2024 – December 2025**
@@ -129,6 +140,7 @@
 
 ## 🛠️ What I Build
 
+- **Payment and billing systems** connecting providers, banks, treasury systems, and subscription lifecycles
 - **Web3 Infrastructure** that scales: MEV protection, transaction security, high-frequency trading systems, data & API aggregation layers
 - **Microservices architectures** with event-driven patterns for real-time systems
 - **Smart contracts** for tokenization, governance, DeFi operations (swap, flash loan, yield)

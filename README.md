@@ -142,12 +142,11 @@
 
 ## 🛠️ What I Build
 
-- **Payment and billing systems** connecting providers, banks, treasury systems, and subscription lifecycles
-- **Web3 Infrastructure** that scales: MEV protection, transaction security, high-frequency trading systems, data & API aggregation layers
-- **Microservices architectures** with event-driven patterns for real-time systems
-- **Smart contracts** for tokenization, governance, DeFi operations (swap, flash loan, yield)
-- **Multi-chain solutions** integrating Solana, EVM chains with unified APIs
-- **AI-driven systems** that make blockchain transactions intelligible and safe
+- **Distributed, real-time systems**: event-driven microservices and high-throughput pipelines, from trading backends to network telemetry
+- **Programmable infrastructure**: marketplaces and software-defined networking that let capacity be ordered, provisioned and measured through an API
+- **Financial systems**: billing, payments, settlement and ledgers that connect money flows with the services they pay for
+- **AI-native engineering**: operating models where agents implement against clear contracts and engineers decide based on the evidence they produce
+- **Web3 infrastructure**: MEV, transaction security, smart contracts and multi-chain data layers
 - **Teams and processes** that ship fast without sacrificing quality
 
 ---

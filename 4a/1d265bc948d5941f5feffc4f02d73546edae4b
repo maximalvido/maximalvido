@@ -1,0 +1,19 @@
+README.md
+  s_eb12e2a2983fa5::t_288597b179e896 156,158,160,162,164,166-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a1d265bc948d5941f5feffc4f02d73546edae4b",
+  "prompts": {},
+  "sessions": {
+    "s_eb12e2a2983fa5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "099eb77a-22ec-4d33-ad9a-9eb3e0c000e3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Maximiliano Malvido <maxi.malvido@gmail.com>"
+    }
+  }
+}

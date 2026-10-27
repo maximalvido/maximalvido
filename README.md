@@ -171,7 +171,8 @@
 
 ## 🔗 Connect
 
-- **Email**: maxi@clawstudios.com | +34 662 544 167
+- **Email**: maxi@clawstudios.com
+- **Telegram**: [@mmalvido](https://t.me/mmalvido)
 - **Website**: https://maximilianomalvido.com
 - **LinkedIn**: https://linkedin.com/in/maximiliano-malvido
 - **GitHub**: https://github.com/maximalvido

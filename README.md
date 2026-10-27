@@ -181,8 +181,12 @@
 
 ## 💼 Open to
 
-- **Founding Engineer** roles at Web3/DeFi/fintech companies
-- **Head Engineering** or **VP Engineering** positions for seed/Series A startups
-- **Founding Engineering** for seed/Series A startups
-- **Staff Engineering** positions on 200+ employess companies.
+- **Head of Engineering / VP Engineering / CTO** at seed to Series B startups building infrastructure, fintech or AI-native products
+- **Founding Engineer** roles in distributed systems, real-time platforms, fintech or Web3
+- **Staff / Principal Engineer** roles at scale-ups (200+ people) on distributed or financial systems
 
+---
+
+## 💬 Let's talk about
+
+Infrastructure, fintech and AI-native engineering — advising, collaborations and interesting problems.

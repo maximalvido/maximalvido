@@ -1,7 +1,7 @@
 <div align="center">
 
 # Maximiliano Malvido
-**Head of Engineering at Share Inc | Payments & Infrastructure | AI | Web3**
+**Head of Engineering at Share Inc | Real-time & Financial Systems | AI | Web3**
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" />

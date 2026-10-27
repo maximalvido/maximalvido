@@ -24,7 +24,7 @@
 ### Head of Engineering @ Share Inc
 **2025 – Present | Barcelona, Spain**
 
-- **Building a bandwidth marketplace**: a platform where network operators buy and sell capacity wholesale, with partner onboarding, usage-based billing and settlement in one place. Took it from architecture to production in under a month.
+- **Building a marketplace that makes internet infrastructure programmable**: enterprises, cloud on-ramps and AI agents buy capacity on demand through an API, routed on their own terms, with transparent pricing and settlement on proof of delivery instead of year-long contracts. Shipped V0 (partner onboarding, usage visibility, automated invoicing and circuit requests) from architecture to production in under a month.
 - **Designing the software-defined networking (SDN) layer** at the core of the marketplace: one orchestration plane across independent operators' networks, so capacity is ordered, provisioned and measured in software rather than through tickets and manual setup. *(in progress)*
 - **Defining how an AI-native company builds software**: an operating model where product intent becomes an engineering contract, agents implement it, and engineers decide based on the evidence they produce. Set up the team structure, review gates and release process to match.
 - **Scaling the company's operations on a platform built for it**: billing, payments and settlement, and subscriber provisioning, used to move operators off legacy ISP tooling.
